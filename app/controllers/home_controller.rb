@@ -13,4 +13,7 @@ class HomeController < ApplicationController
       status: 404
     }
   end
+
+  def app
+  end
 end
